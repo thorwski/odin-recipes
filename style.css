@@ -1,0 +1,44 @@
+.homepage{
+    margin: auto;
+    width: 40%;
+    border: 3px solid red;
+    border-radius: 3%;
+    padding: 20px;
+}
+.font-recipes{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+}
+.link-fonte{
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.link-fonte2{
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: auto;
+    width: 50%;
+}
+
+#homepage{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   text-align: center;
+}
+.lasagna{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img{
+    display: block;
+    margin: auto;
+    border-radius: 10%;
+}
+.lasagna-make{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.lasagna-recipe{
+    margin:auto;
+    width: 50%;
+}
