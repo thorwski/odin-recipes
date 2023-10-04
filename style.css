@@ -25,7 +25,7 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
    text-align: center;
 }
-.lasagna{
+.lasagna, .ricottapie{
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
@@ -41,4 +41,29 @@ img{
 .lasagna-recipe{
     margin:auto;
     width: 50%;
+}
+.paragrafo{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 14px;
+}
+.other-recipes{
+    text-align: center;
+    font-size: 50px;
+    border: 5px solid ;
+    border-radius: 1%;
+    margin: auto;
+    text-decoration: none;
+    display: block;
+}
+.header{
+    text-decoration: none;
+    text-align: center;
+    margin: auto;
+    font-size: 20px;
+}
+.link-other-recipes{
+    text-align: center;
+    display: block;
+    text-decoration: none;
+    font-size: 30px;
 }
